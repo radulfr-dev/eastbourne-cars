@@ -10,6 +10,7 @@ p, span, a, li {
 
 html, body {
     height: 100%;
+    overflow: auto;
 
     .site-wrapper {
         height: 100%;
@@ -81,6 +82,15 @@ html, body {
                         }
                     }
                 }
+            }
+        }
+        .footer {
+            background-color: $orange;
+            p {
+                width: 100%;
+                text-align: center;
+                margin: 0;
+                padding: $padding 0;
             }
         }
 

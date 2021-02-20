@@ -8,6 +8,7 @@ p, span, a, li {
 
 html, body {
   height: 100%;
+  overflow: auto;
 }
 html .site-wrapper, body .site-wrapper {
   height: 100%;
@@ -72,6 +73,15 @@ html .site-wrapper .main-content .service-details .prices-services > ul > li > u
 }
 html .site-wrapper .main-content .service-details .prices-services > ul > li > ul > li, body .site-wrapper .main-content .service-details .prices-services > ul > li > ul > li {
   text-align: center;
+}
+html .site-wrapper .footer, body .site-wrapper .footer {
+  background-color: #ed7700;
+}
+html .site-wrapper .footer p, body .site-wrapper .footer p {
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  padding: 15px 0;
 }
 
 body {

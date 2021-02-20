@@ -78,6 +78,9 @@ Minimum charge £45 plus £1.50 per mile.
                     </div>
                 </div>
             </div>
+            <div class="row footer">
+                <p>For more information, please call: 07496539776</p>
+            </div>
         </div>
         
         <script src="./js/index.js" type="text/javascript"></script>
