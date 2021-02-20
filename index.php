@@ -28,6 +28,7 @@
                         <p>Safe, secure, dry, CCTV protected, private monitored access.</p>
                         <p>Classic cars, motorcycles, boats, jet skis etc.. Non-runners and pre/partial restorations welcome.</p>
                         <p>Premier location, on-site visitor parking.</p>
+                        <p>Vehicle collection and delivery.</p>
                     </div>
                 </div>
             </div>
@@ -38,19 +39,59 @@
                 <div class="service-details">
                     <div class="prices-services">
                         <h2>Prices &amp; Services</h2>
-                        <ul>
-                            <li>
+                        <div class="row">
+                            <div class="col-12">
                                 <h3>Basic Storage Only</h3>
-                                <ul>
-                                    <li>Small car £15.00 per week (Mini, smart, bubble car etc)</li>
-                                    <li>Medium car £17.50 per week (sportscar, Porsche 911, ford capri etc)</li>
-                                    <li>Large car £20 per week (Rover P5 Porsche 928, jaguar etc)</li>
-                                    <li>Motorcycle/moped £7.00 per week</li>
-                                    <li>Jet ski £10 per week</li>
-                                    <li>Boat priced accordingly please call for price</li>
-                                    <li>Car cover rental £5.00 per month</li>
-                                </ul>
-                            </li>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="service-block col-12 col-md-4">
+                                <div class="service-info">
+                                        <h4>Small Car</h4>
+                                        <p class="desc">(Mini, smart, bubble car etc)</p>
+                                        <p><span>£15.00</span> per week</p>
+                                </div>
+                            </div>
+                            <div class="service-block col-12 col-md-4">
+                                <div class="service-info">
+                                        <h4>Medium Car</h4>
+                                        <p class="desc">(sportscar, Porsche 911, ford capri etc)</p>
+                                        <p><span>£17.50</span> per week</p>
+                                </div>
+                            </div>
+                            <div class="service-block col-12 col-md-4">
+                                <div class="service-info">
+                                        <h4>Large Car</h4>
+                                        <p class="desc">(Rover P5 Porsche 928, jaguar etc)</p>
+                                        <p><span>£20.00</span> per week</p>
+                                </div>
+                            </div>
+                            <div class="service-block col-12 col-md-4">
+                                <div class="service-info">
+                                        <h4>Motorcycle / Moped</h4>
+                                        <p><span>£7.00</span> per week</p>
+                                </div>
+                            </div>
+                            <div class="service-block col-12 col-md-4">
+                                <div class="service-info">
+                                        <h4>Jet-Ski</h4>
+                                        <p><span>£10.00</span> per week</p>
+                                </div>
+                            </div>
+                            <div class="service-block col-12 col-md-4">
+                                <div class="service-info">
+                                        <h4>Boats</h4>
+                                        <p>Priced accordingly - please call</p>
+                                </div>
+                            </div>
+                            <div class="service-block col-12 col-md-4">
+                                <div class="service-info">
+                                        <h4>Car Cover Rental</h4>
+                                        <p><span>£5.00</span> per month</p>
+                                </div>
+                            </div>
+                        </div>
+                        <ul>
                             <li>
                                 <h3>Standard additional storage service</h3>
                                 <h4>Includes:</h4>
