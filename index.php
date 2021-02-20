@@ -24,11 +24,15 @@
             <div class="row header">
                 <div class="col">
                     <h1>Eastbourne Indoor Vehicle Storage</h1>
-                </div>
-                <div class="contact-wrapper">
-                    <a class="contact">Contact Us</a>
+                    <div class="sub-heading">
+                        <p>Safe, secure, dry, CCTV protected, private monitored access.</p>
+                        <p>Classic cars, motorcycles, boats, jet skis etc.. Non-runners and pre/partial restorations welcome.</p>
+                    </div>
                 </div>
             </div>
+                    <div class="row contact">
+                        <p> For more information, please call: 07496539776</p>
+                    </div>
             <div class="container main-content">
                 <div class="service-details">
                     <div class="prices-services">
