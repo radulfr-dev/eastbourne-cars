@@ -68,15 +68,23 @@ html, body {
                             border-radius: $padding;
                             padding: $padding;
                             margin: $padding 0;
+                            min-height: 150px;
+                            display: flex;
+                            flex-direction: column;
+                            justify-content: center;
+                            align-items: center;
                             h4 {
                                 font-weight: bold;
                             }
                             .desc {
                                 font-style: italic;
                             }
-                            p:last-child {
+                            p {
+                                &:last-child {
+                                margin: 0;
                                 span {
                                     font-weight: bold;
+                                }
                                 }
                             }
                         }

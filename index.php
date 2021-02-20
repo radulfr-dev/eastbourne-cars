@@ -91,32 +91,41 @@
                                 </div>
                             </div>
                         </div>
-                        <ul>
-                            <li>
-                                <h3>Standard additional storage service</h3>
-                                <h4>Includes:</h4>
-                                <ul>
-                                    <li>Weekly wheel turning service (engine start and warm up, vehicle moved back and forth) tyre pressure check. £10 per month</li>
-                                </ul>
-                            </li>
-                            <li>
-                                <h3>Premium additional storage service</h3>
-                                <ul>
-                                    <li>
-Weekly wheel turning service (vehicle chamois leather both exterior
-and interior, engine start and warm up, vehicle moved back and forth)
-tyre pressure check. £20 per month
-                                    </li>
-                                    <li>
-Battery charged when required free of charge
-                                    </li>
-                                </ul>
-                            </li>
-                            <li>
-                            Vehicle collection and delivery
-Minimum charge £45 plus £1.50 per mile.
-                            </li>
-                        </ul>
+                        <div class="row">
+                            <div class="col-12">
+                                <h3>Additional Storage Services</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="service-block col-12 col-md-6">
+                                <div class="service-info">
+                                    <h4>Standard Weekly Wheel Turning</h4>
+                                    <p class="desc">(engine start and warm up, vehicle moved back and forth, tyre pressure check)</p>
+                                    <p><span>£10.00</span> per month</p>
+                                </div>
+                            </div>
+                            <div class="service-block col-12 col-md-6">
+                                <div class="service-info">
+                                    <h4>Premium Weekly Wheel Turning</h4>
+                                    <p class="desc">The Standard Weekly Wheel Turning + vehicle chamois leather both exterior and interior</p>
+                                    <p><span>£20.00</span> per month</p>
+                                </div>
+                            </div>
+                            <div class="service-block col-12 col-md-6">
+                                <div class="service-info">
+                                    <h4>Battery Charging</h4>
+                                    <p class="desc">(when required)</p>
+                                    <p>Free of charge</p>
+                                </div>
+                            </div>
+                            <div class="service-block col-12 col-md-6">
+                                <div class="service-info">
+                                    <h4>Vehicle Collection &amp; Delivery</h4>
+                                    <p>Free of charge</p>
+                                    <p><span>£45.00</span> plus £1.50 per mile</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
