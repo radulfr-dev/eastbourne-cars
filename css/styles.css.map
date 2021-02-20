@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/styles.scss"],"names":[],"mappings":"AAAA;EACI","file":"styles.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/styles.scss","../sass/_generic.scss"],"names":[],"mappings":"AAEA;EACI;;AAEA;EACI;EACA,kBCJA;;ADMA;EACI,kBCTL;EDUK;EACA;EACA;EACA;;AAEI;EACI;;AAGR;EACI;EACA;EACA;EACA;EACA,SCjBN;EDkBM;EACA;EACA;EACA;EACA;;AACA;EACI;EACA;EACA;EACA,SC3BV;ED4BU,eC5BV;;AD6Bc;EACI;EACA;;AAMpB;EACI","file":"styles.css"}
