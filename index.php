@@ -27,6 +27,7 @@
                     <div class="sub-heading">
                         <p>Safe, secure, dry, CCTV protected, private monitored access.</p>
                         <p>Classic cars, motorcycles, boats, jet skis etc.. Non-runners and pre/partial restorations welcome.</p>
+                        <p>Premier location, on-site visitor parking.</p>
                     </div>
                 </div>
             </div>
