@@ -31,8 +31,8 @@
                     </div>
                 </div>
             </div>
-                    <div class="row contact">
-                        <p> For more information, please call: 07496539776</p>
+                <div class="row contact">
+                    <p> For more information, please call: <a href="tel: 07496539776">07496539776</a></p>
                     </div>
             <div class="container main-content">
                 <div class="service-details">
@@ -80,7 +80,7 @@ Minimum charge £45 plus £1.50 per mile.
                 </div>
             </div>
             <div class="row footer">
-                <p>For more information, please call: 07496539776</p>
+                    <p> For more information, please call: <a href="tel: 07496539776">07496539776</a></p>
             </div>
         </div>
         
