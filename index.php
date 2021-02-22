@@ -33,8 +33,8 @@
                 </div>
             </div>
                 <div class="row contact">
-                    <p> For more information, please call: <a href="tel: 07496539776">07496539776</a></p>
-                    </div>
+                    <p>For more information, please call: <a href="tel: 07496539776">07496539776</a> or visit <a href="https://eastbournevehiclestorage.co.uk">eastbournevehiclestorage.co.uk</a></p>
+                </div>
             <div class="container main-content">
                 <div class="service-details">
                     <div class="prices-services">
@@ -74,13 +74,7 @@
                             </div>
                             <div class="service-block col-12 col-md-4">
                                 <div class="service-info">
-                                        <h4>Jet-Ski</h4>
-                                        <p><span>£10.00</span> per week</p>
-                                </div>
-                            </div>
-                            <div class="service-block col-12 col-md-4">
-                                <div class="service-info">
-                                        <h4>Boats</h4>
+                                        <h4>Boats / Jet-Ski</h4>
                                         <p>Priced accordingly - please call</p>
                                 </div>
                             </div>
@@ -107,7 +101,7 @@
                             <div class="service-block col-12 col-md-6">
                                 <div class="service-info">
                                     <h4>Premium Weekly Wheel Turning</h4>
-                                    <p class="desc">The Standard Weekly Wheel Turning + vehicle chamois leather both exterior and interior</p>
+                                    <p class="desc">The Standard Weekly Wheel Turning + car cover, vehicle chamois leather both exterior and interior</p>
                                     <p><span>£20.00</span> per month</p>
                                 </div>
                             </div>
@@ -121,7 +115,6 @@
                             <div class="service-block col-12 col-md-6">
                                 <div class="service-info">
                                     <h4>Vehicle Collection &amp; Delivery</h4>
-                                    <p>Free of charge</p>
                                     <p><span>£45.00</span> plus £1.50 per mile</p>
                                 </div>
                             </div>
